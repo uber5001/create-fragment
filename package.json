@@ -1,6 +1,6 @@
 {
   "name": "@uber5001/create-fragment",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "shorthand for document.createDocumentFragment",
   "main": "dist/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "url": "https://github.com/uber5001/create-fragment/issues"
   },
   "homepage": "https://github.com/uber5001/create-fragment#readme",
-  "dependencies": {
+  "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1"
   }
